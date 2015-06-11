@@ -22,7 +22,7 @@
    style="display:inline;enable-background:new">
   <sodipodi:namedview
      stroke="#ef2929"
-     fill="#312732"
+     fill="#1D1F21"
      id="base"
      pagecolor="#8c8c8c"
      bordercolor="#ff5e00"
@@ -137,9 +137,9 @@
        height="24"
        width="24"
        id="rect3005"
-       style="opacity:0.4;fill:#5a5a5a;fill-opacity:1;stroke:none" />
+       style="opacity:0.4;fill:#1D1F21;fill-opacity:1;stroke:none" />
     <rect
-       style="opacity:1;fill:#312732;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#1D1F21;fill-opacity:1;stroke:none"
        id="rect3003"
        width="22"
        height="22"

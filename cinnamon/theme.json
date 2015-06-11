@@ -1,10 +1,9 @@
 { 
    "cinnamon-theme": {
-   "name": "Zukizuki", 
+   "name": "Xepha", 
    "author": "ariponce", 
    "version": "",
    "type":   "custom",
-   "thumbnail": "thumbnail.png", 
    "url": "" 
     }
 }

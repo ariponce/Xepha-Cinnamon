@@ -215,12 +215,12 @@ StScrollBar StButton#hhandle {
 
 .popup-slider-menu-item {
     height: 1em;
-     min-width: 15em;
+    min-width: 15em;
     -slider-height: 0.1em;
     -slider-background-color: #fff;
     -slider-border-color: #fff;
-    -slider-active-background-color: #25272a;
-    -slider-active-border-color: #25272a;
+    -slider-active-background-color: #CC6666;
+    -slider-active-border-color: #CC6666;
     -slider-border-width: 0px;
     -slider-handle-radius: 0.5em;
 }
@@ -659,7 +659,7 @@ StScrollBar StButton#hhandle {
 
 
 .calendar-day-base:active {
-    background: #312732;
+    background: #CC6666;
     border: 1px solid transparent;
     color: #fff;
 }
@@ -816,7 +816,7 @@ StScrollBar StButton#hhandle {
 }
 
 .thumbnail-scroll-gradient-left {
-    background-color: rgba(51, 51, 51, 0.5);
+    background-color: rgba(29, 31, 33, 0.5);
     border-radius: 24px;
     border-radius-topright: 0px;
     border-radius-bottomright: 0px;
@@ -824,7 +824,7 @@ StScrollBar StButton#hhandle {
 }
 
 .thumbnail-scroll-gradient-right {
-    background-color: rgba(51, 51, 51, 0.5);
+    background-color: rgba(29, 31, 32, 0.5);
     border-radius: 24px;
     border-radius-topleft: 0px;
     border-radius-bottomleft: 0px;
@@ -841,8 +841,8 @@ StScrollBar StButton#hhandle {
 
 .switcher-list .item-box:selected {
     background-gradient-direction: vertical;
-    background-gradient-end: #4d82b7;
-    background-gradient-start: #6598cb;
+    background-gradient-end: #2d3033;
+    background-gradient-start: #2d3033;
     color: #fff;
 }
 
@@ -1709,8 +1709,8 @@ StScrollBar StButton#hhandle {
 
 .sound-seek-box .popup-menu-item:active {
     background-gradient-direction: vertical;
-    background-gradient-end: #312732;
-    background-gradient-start: #1e181f;
+    background-gradient-end: #CC6666;
+    background-gradient-start: #CC6666;
 }
 
 .sound-seek-box StLabel {
