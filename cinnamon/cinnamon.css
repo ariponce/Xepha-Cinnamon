@@ -1403,8 +1403,8 @@ StScrollBar StButton#hhandle {
 .menu-favorites-button:hover {
     color: #fff; 
     background-gradient-direction: vertical;
-    background-gradient-end: #1d1f21;
-    background-gradient-start: #1d1f21;
+    background-gradient-end: #CC6666;
+    background-gradient-start: #CC6666;
 }
 
 .menu-places-box {  
@@ -1429,16 +1429,17 @@ StScrollBar StButton#hhandle {
 
 .menu-applications-inner-box {
     padding-top: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+    background-color: #2d3033;
 }
 
 .menu-applications-outer-box {
     padding-top: 10px;
     padding-left: 10px;
     padding-right: 10px;
-    padding-bottom: 0px;
+    padding-bottom: 10px;
 }
 
 .menu-application-button {
@@ -1457,8 +1458,8 @@ StScrollBar StButton#hhandle {
     padding-bottom: 7px;
     color: #fff; 
     background-gradient-direction: vertical;
-    background-gradient-end: #2d3033;
-    background-gradient-start: #2d3033;
+    background-gradient-end: #c44d4d;
+    background-gradient-start: #c44d4d;
 }
 
 .menu-application-button-label:ltr { 
@@ -1478,8 +1479,8 @@ StScrollBar StButton#hhandle {
     border-image: none;
     color: #fff; 
     background-gradient-direction: vertical;
-    background-gradient-end: #312732;
-    background-gradient-start: #312732;
+    background-gradient-end: #CC6666;
+    background-gradient-start: #CC6666;
 }
 
 .menu-category-button {
@@ -1507,8 +1508,8 @@ StScrollBar StButton#hhandle {
     padding-bottom: 7px; 
     color: #fff; 
     background-gradient-direction: vertical;
-    background-gradient-end: #2d3033;
-    background-gradient-start: #2d3033;
+    background-gradient-end: #CC6666;
+    background-gradient-start: #CC6666;
 }
 
 .menu-category-button-label:ltr { 
@@ -1520,7 +1521,7 @@ StScrollBar StButton#hhandle {
 }
 
 .menu-category-button-button:hover {
-    background-color: #3d3d3d;
+    background-color: #CC6666;
     border: 1px solid #535353;
     border-radius: 2px;
 }
