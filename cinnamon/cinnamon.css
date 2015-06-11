@@ -188,8 +188,8 @@ StScrollBar StButton#hhandle {
 .popup-menu-item:active {
     color: #fff; 
     background-gradient-direction: vertical;
-    background-gradient-end: #25272a;
-    background-gradient-start: #25272a;
+    background-gradient-end: #CC6666;
+    background-gradient-start: #CC6666;
 }
 
 .popup-sub-menu .popup-menu-item {
